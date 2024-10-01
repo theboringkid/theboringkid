@@ -3,9 +3,9 @@
 - 🪛 Tinkering with basically anything
 - 💻 I enjoy C
 - 📱 Interested in Android modding
-### HOMEPAGE
+### Homepage
 https://h2939863.stratoserver.net
-### MOST OF MY PROJECTS ARE HERE
+### Most of my projects are here
 https://h2939863.stratoserver.net/git/XOR
 <!---
 theboringkid/theboringkid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
